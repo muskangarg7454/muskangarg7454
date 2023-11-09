@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muskan agrg
+- 👋 Hi, I’m Muskan garg
 - 👀 I’m interested in FrontEnd Development , web designing
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on web development projects
